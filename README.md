@@ -91,9 +91,6 @@ Este projeto Unity utiliza a **API OpenWeather** para exibir informações clim�
 4. **Execução:**
    - Pressione **Play** no Unity.
    - Veja as informações exibidas em tempo real.
-  
-![mulyi](https://github.com/user-attachments/assets/9ccc374f-b9f8-428f-829a-d2bfb50cba7e)
-
 ---
 
 ## Exemplo de Exibição
