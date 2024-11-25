@@ -1,3 +1,6 @@
+
+![lau4](https://github.com/user-attachments/assets/bc55189c-aa4a-494a-940b-159a36543c9d)
+
 # Project1 - Around The World
 
 ## Descrição do Projeto
@@ -44,10 +47,14 @@ Este projeto Unity utiliza a **API OpenWeather** para exibir informações clim�
    - Um **Cubo** (opcional) para interação visual.
 2. Adicione objetos de texto:
    - Utilize **TextMeshPro** para exibir as informações climáticas e o horário.
+     
+![lau2](https://github.com/user-attachments/assets/4cf0278e-8a6f-4422-b97d-55c51bd8f696)
 
 ### **3. Configuração da API OpenWeather**
 1. Cadastre-se em [OpenWeather](https://openweathermap.org/) e obtenha uma chave de API.
 2. Insira a chave de API nos campos apropriados nos scripts Unity.
+
+![eloelo](https://github.com/user-attachments/assets/8ad42192-31ee-49e5-b55f-cf1bba520122)
 
 ---
 
@@ -84,6 +91,8 @@ Este projeto Unity utiliza a **API OpenWeather** para exibir informações clim�
 4. **Execução:**
    - Pressione **Play** no Unity.
    - Veja as informações exibidas em tempo real.
+  
+![mulyi](https://github.com/user-attachments/assets/9ccc374f-b9f8-428f-829a-d2bfb50cba7e)
 
 ---
 
